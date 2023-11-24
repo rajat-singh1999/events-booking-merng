@@ -3,7 +3,6 @@
 Event booking webapp using MERN and GQL (MERNG?!?!👀️)
 I am still working on this one, the entire frontend(R in MERNG) part is left... 😄
 
-
 ## Installation
 
 go for ```npm i``` should work.
@@ -26,12 +25,9 @@ after node_modules installation you might want to configure a ```nodemon.json```
 You may run the queries and mutations using POSTMAN or any other tool that supports GQL.
 You can determine the synatax by looking into the ```graphql/schema/ind.js``` file.
 
-
-
 ## Contributing
 
 I should be able to add the frontend using React, but contribution for frontend are welcome using any framework or tool!
-
 
 ## Contact
 
